@@ -1,5 +1,6 @@
 # TCS-Digital-2022-Solution
-1.Find difference between sums of two diagonals
+1.Find difference between sums of two diagonals:
+
 Given a matrix of n X n. The task is to calculate the absolute difference between the sums of its diagonal.
 Examples: 
 
