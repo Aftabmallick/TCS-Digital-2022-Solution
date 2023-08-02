@@ -6,15 +6,4 @@ Given a matrix of n X n. The task is to calculate the absolute difference betwee
 
 Examples: 
 
-Input : mat[][] = 11 2 4
-                   4 5 6
-                  10 8 -12 
-Output : 15
-Sum of primary diagonal = 11 + 5 + (-12) = 4.
-Sum of secondary diagonal = 4 + 5 + 10 = 19.
-Difference = |19 - 4| = 15.
-
-
-Input : mat[][] = 10 2
-                   4 5
-Output : 9
+![image](https://github.com/Aftabmallick/TCS-Digital-2022-Solution/assets/78075420/6a7142eb-5e4d-4231-b2ef-72d081c17fca)
