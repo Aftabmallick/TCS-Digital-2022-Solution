@@ -2,6 +2,8 @@
 1.Find difference between sums of two diagonals:
 
 Given a matrix of n X n. The task is to calculate the absolute difference between the sums of its diagonal.
+
+
 Examples: 
 
 Input : mat[][] = 11 2 4
